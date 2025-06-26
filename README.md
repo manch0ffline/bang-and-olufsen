@@ -27,7 +27,7 @@ The page is adapted for various devices:
 4. Semantic HTML5 Layout: The project is built using modern, semantic HTML5 tags (<header>, <main>, <section>, <footer>, etc.), which improves SEO and accessibility.
 5. Cross-Browser Compatibility: The layout is designed to be compatible with modern web browsers like Google Chrome, Mozilla Firefox, and Safari.
    
-## 🚀 How to Run the Project Locally
+## How to Run the Project Locally
 To launch this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
