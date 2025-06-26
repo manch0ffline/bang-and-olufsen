@@ -1,4 +1,4 @@
-# 🎧 Bang & Olufsen — Landing page
+# Bang & Olufsen — Landing page
 
 A one-page website designed to showcase products from the brand **Bang & Olufsen** — a manufacturer of high-quality audio equipment. The project was completed with an emphasis on stylish design, readability and adaptability.
 
@@ -14,7 +14,7 @@ Experience the live website: [Bang & olufsen](https://manch0ffline.github.io/ban
 - FLEXBOX / GRID
 - GOOGLE FONTS
 
-## 📱 Adaptability
+## Adaptability
 The page is adapted for various devices:
 - 📱 Smartphones
 - 💻 Tablets and laptops
